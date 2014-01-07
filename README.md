@@ -16,7 +16,7 @@ Usage examples:
 
     cat BIGTEXT | color rainbow -c blue/green
 
-    cat BIGTEXT | color rain(cross)?bow -c blue/green
+    cat BIGTEXT | color 'rain(cross)?bow' -c blue/green
 
     color -f /path/to/file -c red WARNING
 
