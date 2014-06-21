@@ -29,3 +29,7 @@ Usage examples:
     <<EOF
     if (true) then "if (" else false
     EOF
+
+# Warning
+
+This is kinda like a toy and some bugs have been seen already, although they are pretty much irrelevant and the program is still useful.
